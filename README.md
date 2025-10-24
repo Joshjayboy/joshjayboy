@@ -20,8 +20,8 @@
 
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
-<br>📄 Check out my [Resume](https://joshuaakintemi.netlify.app/)<br>
-<br>💻 Know more about me [Portfilio](https://joshuaakintemi.netlify.app/)<br>
+<br>📄 Check out my [Resume](https://drive.google.com/file/d/1IBRKrGg0IDhLM6imzvhBZxww0I_U5U2X/view?usp=sharing)<br>
+<br>💻 Know more about me [Portfilio](https://drive.google.com/file/d/1IBRKrGg0IDhLM6imzvhBZxww0I_U5U2X/view?usp=sharing)<br>
 <br>💻 All of my projects are available at My [Github Repositories](https://github.com/Joshjayboy?tab=repositories)<br>
 <br>💬 Ask me about TypeScript, Reactjs, NextJs, Node.js, Express.js, MongoDB, FireBase, JavaScript<br>
 <br>📫 Send me an email at jakintemi@gmail.com<br>
